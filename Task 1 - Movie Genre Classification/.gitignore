@@ -8,8 +8,7 @@ data/description.txt
 __pycache__/
 .ipynb_checkpoints/
 
-# Ignore model checkpoints if needed
-*.pkl
+
 
 # Ignore environment files (optional)
 .env
