@@ -1,0 +1,16 @@
+# Ignore raw dataset files from Kaggle
+data/train_data.txt
+data/test_data.txt
+data/description.txt
+
+# Ignore temporary or system files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore model checkpoints if needed
+*.pkl
+
+# Ignore environment files (optional)
+.env
+.venv/
